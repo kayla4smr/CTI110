@@ -27,7 +27,7 @@ alex.color("purple","yellow")                # Set the fill color to yellow
 alex.begin_fill()                 # Begin filling the triangle with color
 while i != 3:
     alex.right(120)             # Tell alex to turn by 120 degrees
-    alex.forward(50)          # Complete the second side of a triangle 
+    alex.forward(50)          
    
     i += 1                                             
 
